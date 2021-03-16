@@ -14,6 +14,7 @@ This app is a workout app designed to help log and meet workout goals. Using mon
 - Heroku
 - CSS
 - css Library
+- Morgan
 
 What does express do? It creates CRUD routes for API and displays HTML pages. Gotta have all the different parts. POST, PUT, FETCH, DELETE. CRUD...
 

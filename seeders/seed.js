@@ -1,10 +1,8 @@
 let mongoose = require("mongoose");
 let db = require("../models");
 
-mongoose.connect("mongodb://localhost/workout", {
-  useNewUrlParser: true,
-  useFindAndModify: false
-});
+mongoose.connect("mongodb+srv://admin:password098@cluster0.vwnbl.mongodb.net/workout?retryWrites=true&w=majority"
+ || "mongodb://localhost/workout" );
 
 let workoutSeed = [
   {

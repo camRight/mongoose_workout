@@ -24,6 +24,6 @@ To seed the seed update the package.json script to run: `npm run seed`
 
 ## Live Deploy and Repo Link
 
-Deploy: https://exercise-tracker-dashboard.herokuapp.com/exercise?
+Deploy: https://exercise-tracker-dashboard.herokuapp.com/
 
 Github Repo: https://github.com/camRight/mongoose_workout/

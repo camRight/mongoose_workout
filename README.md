@@ -1,7 +1,6 @@
 # mongoose_workout
 
-This app is a workout app designed to help log and meet workout goals. Using mongoDB and Mongoose, coupled with a deployment on Heroku for ease of use, a user can 
-
+This app is a workout app designed to help log and meet workout goals. Using mongoDB and Mongoose, coupled with a deployment on Heroku for ease of use, a user can view, create and track daily workouts. Multiple excersis in a workout can be track (even on a given day). If the exercise is a cardio workout, the user can keep track of the distance travelled.
 
 
 ## Technologies
